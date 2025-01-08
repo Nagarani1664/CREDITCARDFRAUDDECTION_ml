@@ -11,11 +11,18 @@ Evaluate model performance using appropriate metrics (accuracy, precision, recal
 Project Structure:
 
 data/: Contains the credit card transaction dataset (e.g., CSV files).
+
 src/: Contains Python source code for data preprocessing, model training, evaluation, and visualization.
-data_preprocessing.py: Functions for data cleaning, transformation, and feature engineering.
+
+data_preprocessing.py: Functions for data cleaning, transformation, and feature engineering
+
 model_training.py: Functions for training and evaluating machine learning models.
+
 utils.py: Helper functions for data loading, visualization, and model evaluation.
+
 notebooks/: Contains Jupyter Notebooks for exploratory data analysis and model experimentation.
+
 models/: Stores trained model files (e.g., pickled models).
+
 results/: Stores model evaluation results and visualizations.
 
