@@ -18,5 +18,4 @@ utils.py: Helper functions for data loading, visualization, and model evaluation
 notebooks/: Contains Jupyter Notebooks for exploratory data analysis and model experimentation.
 models/: Stores trained model files (e.g., pickled models).
 results/: Stores model evaluation results and visualizations.
-README.md: This file.
-Getting Started:
+
